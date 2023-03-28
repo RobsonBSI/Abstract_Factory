@@ -1,3 +1,3 @@
-public interface Lanche {
+public interface Molhos {
     String ingrrediente();
 }
